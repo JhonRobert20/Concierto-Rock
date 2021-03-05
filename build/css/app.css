@@ -474,10 +474,10 @@ h3 {
     background-position: center center; }
 
 .edm .nombre-escenario:after {
-  background-image: url(../../../imagenes/icono_edm.png); }
+  background-image: url(../imagenes/icono_edm.png); }
 
 .rock .nombre-escenario:after {
-  background-image: url(../../../imagenes/icono_rock.png); }
+  background-image: url(../imagenes/icono_rock.png); }
 
 .calendario {
   padding: 0;
