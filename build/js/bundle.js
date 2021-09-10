@@ -72,6 +72,7 @@ function mostrarImagen(e) {
     
     // Cuando se da click al overlay cerrar imagen
     overlay.onclick = function() {
+        body.classList.remove('fijar-body');
         overlay.remove()
     }
 
@@ -83,6 +84,7 @@ function mostrarImagen(e) {
 
     // Cerrar imagen
     cerrarImagen.onclick = function() {
+        body.classList.remove('fijar-body');
         overlay.remove();
     } 
 
